@@ -70,9 +70,9 @@ HTML/CSS implementasyonu için Google Chrome developer tools(geliştirici araçl
 Ana sayfa için sağlanan tasarım dosyasını inceleyin.
 ​
 * [ ] Eksik header ve footer bölümlerini oluşturmak için HTML ve CSS'yi oluşturun.
-* [ ] h1 tagiyle oluşturduğunuz sayfa başlığı [index.html](index.html) 'ye bağlantı vermelidir (link <a>).
-* [ ] `Menü` menü elemanı [menu.html](menu.html) sayfasına bağlantı vermelidir.
-* [ ] Header'e [FontAwesome](https://fontawesome.com/search)'la oluşturacağınız Facebook, Twitter, and Instagram sosyal medya ikonları ekleyin. *NOT: * ikonların şu isimleri içerdiğine emin olun: "facebook", "twitter", ve "instagram" .
+* [x] h1 tagiyle oluşturduğunuz sayfa başlığı [index.html](index.html) 'ye bağlantı vermelidir (link <a>).
+* [x] `Menü` menü elemanı [menu.html](menu.html) sayfasına bağlantı vermelidir.
+* [x] Header'e [FontAwesome](https://fontawesome.com/search)'la oluşturacağınız Facebook, Twitter, and Instagram sosyal medya ikonları ekleyin. *NOT: * ikonların şu isimleri içerdiğine emin olun: "facebook", "twitter", ve "instagram" .
 * [ ] Ana sayfa düzeninin geri kalanını verilen tasarıma uyacak şekilde oluşturun. Çoğu zaten uygulandı; yalnızca header, footer ve galeri bölümlerini düzeltmen gerekir.
 ​
 Renkler ve fontlar:
